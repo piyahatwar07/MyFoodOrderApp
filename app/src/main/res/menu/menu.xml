@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Order_History"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="My Order"/>
+    <item android:id="@+id/About"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About"/>
+    <item android:id="@+id/logout"
+        android:icon="@drawable/sign_out"
+        android:title="Sign Out"/>
+
+</menu>
